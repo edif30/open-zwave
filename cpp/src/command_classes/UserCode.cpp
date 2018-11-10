@@ -1,4 +1,5 @@
 //-----------------------------------------------------------------------------
+//      Fix for #997 - https://github.com/OpenZWave/open-zwave/pull/1576
 //
 //	UserCode.cpp
 //
